@@ -1,9 +1,6 @@
 ---
-name: Bug report 2
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Bug report
+about: Bug report or configuration help template
 
 ---
 
